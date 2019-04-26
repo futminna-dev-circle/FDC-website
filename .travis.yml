@@ -14,8 +14,8 @@ install:
 # Build the website
 script:
   - git submodule init
-  - git submodule update themes/fdc-theme-hugo
-  - hugo --theme=fdc-theme-hugo
+  - git submodule update themes/devfest-theme-hugo
+  - hugo --theme=devfest-theme-hugo
 
 # Deploy to GitHub pages
 deploy:
