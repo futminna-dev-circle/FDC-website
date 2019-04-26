@@ -3,7 +3,7 @@ languageCode = "en"
 title = "FUT Dev Circle"
 
 # Theme
-theme = "devfest-theme-hugo"
+theme = "fdc-theme-hugo"
 
 # Params
 
