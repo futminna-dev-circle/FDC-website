@@ -11,7 +11,7 @@ draft: false
 
 {{% hero %}}
 
-DevFest Toulouse is a Toulouse community-driven conference, and administratively supported by GDG Toulouse.
+FDC is a community for students to be exposed to the evolution of tech
 
 To make all this possible, an awesome team of volunteers is working behind the scenes.
 
