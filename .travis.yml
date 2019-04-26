@@ -1,8 +1,7 @@
 # Install the apt prerequisites
 addons:
-  apt:
-    packages:
-      - python-pygments
+  snap:
+    - hugo
 
 # Clean and don't fail
 install:
@@ -10,7 +9,9 @@ install:
 
 # Build the website
 script:
-  - binaries/hugo --theme=fresh
+  - git submodule init
+  - git submodule update themes/devfest-theme-hugo
+  - hugo --theme=devfest-theme-hugo
 
 # Deploy to GitHub pages
 deploy:
