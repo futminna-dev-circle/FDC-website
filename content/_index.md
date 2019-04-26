@@ -60,21 +60,11 @@ Federal University of Technology Minna Developers Circle (FDC) envision a techno
 <!-- ... -->
 
 
-
-{{% album images="/images/album/demystifying_github/A.jpg,/images/album/demystifying_github/B.jpg,/images/album/demystifying_github/C.jpg,/images/album/demystifying_github/D.jpg,/images/album/demystifying_github/E.jpg,/images/album/demystifying_github/F.jpg,/images/album/demystifying_github/E.jpg,/images/album/demystifying_github/D.jpg" %}}
-
-
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/h41GEwFRT5cqHjXY9">
-    See all photos from our **Demystifying GitHub** Event
-    {{% icon "right" %}}
-</a>
-
-{{% /album  %}}
-{{% album images="/images/album/bawd/A.jpg,/images/album/bawd/B.jpg,/images/album/bawd/C.jpg,/images/album/bawd/D.jpg,/images/album/bawd/E.jpg,/images/album/bawd/F.jpg,/images/album/bawd/G.jpg,/images/album/bawd/H.jpg" %}}
+{{% album images="/images/album/bawd/A.jpg,/images/album/bawd/B.jpg,/images/album/demystifying_github/A.jpg,/images/album/bawd/D.jpg,/images/album/bawd/E.jpg,/images/album/bawd/F.jpg,/images/album/bawd/G.jpg,/images/album/demystifying_github/D.jpg" %}}
 
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/oxABKDMXX9qk5uBP7">
-    See all photos from our recent **Becoming a Web Developer** Event
+    See all photos from some of our Events
     {{% icon "right" %}}
 </a>
 
