@@ -1,0 +1,22 @@
+# Install the apt prerequisites
+addons:
+  apt:
+    packages:
+      - python-pygments
+
+# Clean and don't fail
+install:
+  - rm -rf public || exit 0
+
+# Build the website
+script:
+  - binaries/hugo --theme=fresh
+
+# Deploy to GitHub pages
+deploy:
+  if: fork = false AND branch = master
+  provider: pages
+  skip_cleanup: true
+  repo: futminna-dev-circle/futminna-dev-circle.github.io
+  github_token: $GITHUB_TOKEN
+  local_dir: public
