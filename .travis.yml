@@ -1,3 +1,5 @@
+dist: xenial
+
 # Install the snap prerequisites
 addons:
   snap:
