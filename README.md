@@ -1,4 +1,4 @@
-# Site DevFest 2019
+# FDC Community Site
 
 [![pipeline status](https://gitlab.com/devfest-toulouse/site-devfest-2019/badges/develop/pipeline.svg)](https://gitlab.com/devfest-toulouse/site-devfest-2019/commits/develop)
 
@@ -63,13 +63,13 @@ Or just copy an already existing blog entry, and update the content.
 ### Update the theme
 
 If you need to touch file of the theme (i.e. into `./themes/devfest-theme-hugo/`) you to know one more thing:
- 
+
 The theme is in another Git repository <https://github.com/GDGToulouse/devfest-theme-hugo>,
 it's using [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules),
 so you need to handle this two repository.
- 
+
 So this is an example of workflow:
- 
+
 * install last NodeJS and yarn, see [here](https://github.com/creationix/nvm) and [yarn](https://yarnpkg.com/)
 * go into the theme folder `./themes/devfest-theme-hugo/`
 * install dependencies with `yarn`
@@ -79,14 +79,14 @@ So this is an example of workflow:
 * then build an optimized version with `npm run build`
 * then create the PR (or push)
 * into the site folder, `git add themes/devfest-theme-hugo`
-* then create the PR (or push) 
+* then create the PR (or push)
 
 ### Publish
 
 To publish the site on firebase, just run `firebase deploy`.
 Note that you need to authenticate once with `firebase login`
 YOU DON'T NEED to publish manually the website, it's already done by pushing on `develop` or `master` branches.
- 
+
 You could take a look at the `.gitlab-ci.yml` file
 
 
