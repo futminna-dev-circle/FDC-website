@@ -18,5 +18,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   repo: futminna-dev-circle/futminna-dev-circle.github.io
+  target_branch: master
   github_token: $GITHUB_TOKEN
   local_dir: public
