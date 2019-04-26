@@ -1,0 +1,81 @@
+baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+languageCode = "en"
+title = "Devfest Toulouse 2019"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-37717223-8"
+
+[params]
+    title = "DevFest Toulouse 2019"
+    date = "2019-10-03"
+    description = "FUTMINNA DEVELOPER CIRLCE [FDC] is a student developer community based in Federal University of Technology, Minna"
+    images = ["/images/social-share.jpg"]
+    email = "contact@futdevcircle.com"
+    keywords = "event, community, fdc, programming, android, chrome, developers, web, cloud, androiddev"
+    copyright = "We :heart:️ Tech"
+    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+    subscriptionUrl = "http://eepurl.com/dps1j5"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+
+[params.logos]
+    jumbo = "/images/logos/devfest_color_text.png"
+    header = "/images/logos/devfest_color_text.png"
+    footer = "/images/logos/devfest_gray_text.png"
+
+#[menu]
+#[[menu.main]]
+#    identifier = "jobs"
+#    name = "Jobs"
+#    url = "https://jobs.devfesttoulouse.fr/"
+#    weight = 200
+#    external = true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+[languages.fr]
+    weight = 2
+    languageName = "fr"
+
+[languages.fr.params]
+    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
