@@ -19,10 +19,13 @@ script:
 
 # Deploy to GitHub pages
 deploy:
-  if: fork = false AND branch = master
+  if: fork = false
   provider: pages
   skip_cleanup: true
   repo: futminna-dev-circle/futminna-dev-circle.github.io
   target_branch: master
   github_token: $GITHUB_TOKEN
   local_dir: public
+  verbose: true
+  on:
+    branch: master
