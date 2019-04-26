@@ -13,7 +13,7 @@
 
 ```bash
 git submodule init
-git submodule update themes/devfest-theme-hugo
+git submodule update themes/fdc-theme-hugo
 ```
 
 ## Commit theme update
@@ -21,7 +21,7 @@ git submodule update themes/devfest-theme-hugo
 When you have made changes on the theme, you need to add the
 
 ```
-git add themes/devfest-theme-hugo
+git add themes/fdc-theme-hugo
 ```
 
 ## Run Local site
@@ -62,9 +62,9 @@ Or just copy an already existing blog entry, and update the content.
 
 ### Update the theme
 
-If you need to touch file of the theme (i.e. into `./themes/devfest-theme-hugo/`) you to know one more thing:
+If you need to touch file of the theme (i.e. into `./themes/fdc-theme-hugo/`) you to know one more thing:
 
-The theme is in another Git repository <https://github.com/GDGToulouse/devfest-theme-hugo>,
+The theme is in another Git repository <https://github.com/futminna-dev-circle/fdc-theme-hugo>,
 it's using [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules),
 so you need to handle this two repository.
 
