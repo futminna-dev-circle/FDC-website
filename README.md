@@ -1,6 +1,6 @@
 # FDC Community Site
 
-[![pipeline status](https://gitlab.com/devfest-toulouse/site-devfest-2019/badges/develop/pipeline.svg)](https://gitlab.com/devfest-toulouse/site-devfest-2019/commits/develop)
+[![Build Status](https://travis-ci.com/futminna-dev-circle/FDC-website.svg?branch=master)](https://travis-ci.com/futminna-dev-circle/FDC-website)
 
 ## Requirement
 
