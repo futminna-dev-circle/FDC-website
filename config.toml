@@ -1,6 +1,6 @@
 baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
 languageCode = "en"
-title = "Devfest Toulouse 2019"
+title = "FUT Dev Circle"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -14,7 +14,7 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "UA-37717223-8"
 
 [params]
-    title = "DevFest Toulouse 2019"
+    title = "FUTMinna Developers Circle"
     date = "2019-10-03"
     description = "FUTMINNA DEVELOPER CIRLCE [FDC] is a student developer community based in Federal University of Technology, Minna"
     images = ["/images/social-share.jpg"]
@@ -31,9 +31,9 @@ googleAnalytics = "UA-37717223-8"
     themeColor = "#673ab7"
 
 [params.logos]
-    jumbo = "/images/logos/devfest_color_text.png"
-    header = "/images/logos/devfest_color_text.png"
-    footer = "/images/logos/devfest_gray_text.png"
+    jumbo = "/images/logos/logo.png"
+    header = "/images/logos/logo.png"
+    footer = "/images/logos/logo_gray.png"
 
 #[menu]
 #[[menu.main]]
@@ -47,13 +47,6 @@ googleAnalytics = "UA-37717223-8"
 [languages.en]
     weight = 1
     languageName = "gb"
-
-[languages.fr]
-    weight = 2
-    languageName = "fr"
-
-[languages.fr.params]
-    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
 
 [taxonomies]
   tag = "tags"

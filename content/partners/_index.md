@@ -11,15 +11,15 @@ draft: false
 
 If you wish to become a sponsor, consult our sponsorship file and contact us at
 
-{{< button-link label="contact@devfesttoulouse.fr"
-                url="mailto:contact@devfesttoulouse.fr"
-                icon="email" >}} 
+{{< button-link label="contact@futdevcircle.com"
+                url="mailto:contact@futdevcircle.com"
+                icon="email" >}}
 
 
 {{% /hero %}}
 
 
-<!-- Parteners list -->
+<!-- Partners list -->
 
 {{% partners categories="platinium,gold,soutien,media,communautes" %}}
 
