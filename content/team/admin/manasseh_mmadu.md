@@ -2,7 +2,7 @@
 title: Manasseh Mmadu
 type: admin
 subtitle: "Python Lead"
-photo: /images/admin/manasseh_mmadu.png
+photo: admin/manasseh_mmadu.jpg
 socials:
   - link: 'https://www.twitter.com/__MeNsaaH_'
     name: Twitter
