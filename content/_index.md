@@ -51,14 +51,6 @@ Federal University of Technology Minna Developers Circle (FDC) envision a techno
 
 <!-- ... -->
 
-<!--{{% home-subscribe  class="primary" %}}-->
-
-<!--## Get notified about the important FDC Events-->
-
-<!--{{% /home-subscribe %}}-->
-
-<!-- ... -->
-
 
 {{% album images="/images/album/bawd/A.jpg,/images/album/bawd/B.jpg,/images/album/demystifying_github/A.jpg,/images/album/bawd/D.jpg,/images/album/bawd/E.jpg,/images/album/bawd/F.jpg,/images/album/bawd/G.jpg,/images/album/demystifying_github/D.jpg" %}}
 
@@ -72,7 +64,7 @@ Federal University of Technology Minna Developers Circle (FDC) envision a techno
 
 <!-- ... -->
 
-{{% partners categories="platinium,gold,soutien,media,communautes" %}}
+{{% partners categories="sponsors" %}}
 ## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
 {{% /partners %}}
