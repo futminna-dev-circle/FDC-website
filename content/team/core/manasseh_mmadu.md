@@ -1,8 +1,8 @@
 ---
 title: Manasseh Mmadu
-type: core
+type: admin
 subtitle: "Python Lead"
-photo: manasseh_mmadu.png
+photo: /images/admin/manasseh_mmadu.png
 socials:
   - link: 'https://www.twitter.com/__MeNsaaH_'
     name: Twitter
