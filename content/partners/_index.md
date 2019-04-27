@@ -11,8 +11,8 @@ draft: false
 
 If you wish to become a sponsor, consult our sponsorship file and contact us at
 
-{{< button-link label="contact@futdevcircle.com"
-                url="mailto:contact@futdevcircle.com"
+{{< button-link label="futminnadevcircle@gmail.com"
+                url="mailto:futminnadevcircle@gmail.com"
                 icon="email" >}}
 
 
