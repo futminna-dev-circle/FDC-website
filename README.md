@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.com/futminna-dev-circle/FDC-website.svg?branch=master)](https://travis-ci.com/futminna-dev-circle/FDC-website)
 
+
+This was built on the [GDGToulouse Devfest theme ](https://github.com/GDGToulouse/devfest-theme-hugo/)
+
 ## Requirement
 
 * [Install Hugo](https://gohugo.io/getting-started/installing/)
