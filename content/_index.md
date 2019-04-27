@@ -52,7 +52,7 @@ Federal University of Technology Minna Developers Circle (FDC) envision a techno
 <!-- ... -->
 
 
-{{% album images="/images/album/bawd/A.jpg,/images/album/bawd/B.jpg,/images/album/demystifying_github/A.jpg,/images/album/bawd/D.jpg,/images/album/bawd/E.jpg,/images/album/bawd/F.jpg,/images/album/bawd/G.jpg,/images/album/demystifying_github/D.jpg" %}}
+{{% album images="/images/album/bawd/A.jpg,/images/album/bawd/B.jpg,/images/album/demystifying_github/A.jpg,/images/album/bawd/D.jpg,/images/album/bawd/E.jpg,/images/album/bawd/F.jpg,/images/album/bawd/G.jpg,/images/album/demystifying_github/B.jpg" %}}
 
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/oxABKDMXX9qk5uBP7">
