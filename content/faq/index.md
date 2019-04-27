@@ -23,7 +23,7 @@ You will find the admin team list at [Team](/team).
 
 ### Where and when will the next event take place?
 
-The next event titled "Design and Collaboration" takes place on **Saturday, May 4** at [SICT Lab, SICT, Federal University of Technology, Minna](https://goo.gl/maps/vDmHc8mFQtD2).
+The next event titled "Design and Collaboration" takes place on **Saturday, May 4** at [SICT Lab, SICT, Federal University of Technology, Minna](https://www.google.com/maps/place/Federal+University+of+Technology+Minna+Gidan+Kwano+Campus/@9.5247783,6.4343621,15z/data=!4m5!3m4!1s0x0:0xc8b3637f075a8b04!8m2!3d9.5247783!4d6.4343621).
 
 ## Sponsor / Partner?
 
@@ -35,7 +35,7 @@ The partnership file is currently available [here](https://drive.google.com/file
 ## Registration
 
 ### Where can I register?
-Find the registration form [here](bit.ly/fdc-reg). Upon completion of registration, you will be sent an email containing an invite to our official slack channel.
+Find the registration form [here](https://bit.ly/fdc-reg). Upon completion of registration, you will be sent an email containing an invite to our official slack channel.
 
 ### What are the conditions for registration?
 
