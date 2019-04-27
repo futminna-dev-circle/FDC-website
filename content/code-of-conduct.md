@@ -104,4 +104,4 @@ Possible consequences include:
 
 ## 8. Contact info
 
-<contact@futdevcircle.com>
+<futminnadevcircle@gmail.com>
