@@ -4,54 +4,102 @@ title: Code of Conduct
 draft: false
 ---
 
-## 1. Purpose
+## 1. Code of Conduct Policy
 
-A primary goal of [GDG Toulouse](http://www.gdgtoulouse.fr/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Toulouse prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+This Code of Conduct Community Policy template is ready to be tailored to your
+community’s needs and should be considered a starting point for setting up your
+employment policies. An employee code of conduct policy may also be referred to as a conduct in the workplace policy.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
+## 2. Policy brief & purpose
 
-## 2. Open [Source/Culture/Tech] Citizenship
+Our Code of Conduct community policy outlines our expectations regarding
+members’ behavior towards their colleagues, supervisors and overall organization.
+We promote freedom of expression and open communication. But we expect all members to
+follow our code of conduct. They should avoid offending, participating in serious disputes and
+disrupting our workplace. We also expect them to foster a well-organized, respectful and
+collaborative environment.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-## 3. Expected Behavior
+## 3. Scope
 
-The following behaviors are expected and requested of all community members:
+This policy applies to all our members regardless of community agreement or rank.
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before a conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+## 4. Policy elements
+What are the components of a Code of Conduct Policy?
+community members are bound by their contract to follow our Employee Code of Conduct while
+performing their duties. We outline the components of our Code of Conduct below:
 
-## 4. Unacceptable Behavior
+## 5. Compliance with law
 
-The following actions are considered harassment and are unacceptable within our community:
+All members must protect our FUTMx DevCircle’s legality. They should comply with all environmental,
+safety and fair dealing laws. We expect members to be ethical and responsible when dealing with
+our community’s finances, products, partnerships and public image.
 
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Sustained disruption of community events, including talks and, presentations.
+## 6. Respect
 
-## 5. Consequences of Unacceptable Behavior
+All members should respect their colleagues. We won’t allow any kind of discriminatory
+behavior, harassment or victimization. members should conform with our equal opportunity
+in all aspects of their communication, from online forums and groups to interpersonal
+Relations.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
 
-## 6. Scope
+## 7. Protection of community Property
 
-We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
+All members should treat our community’s property, whether material or intangible, with respect
+and care.
+Members:
+Shouldn’t misuse community equipment or use it frivolously.
+Should respect all kinds of incorporeal property. This includes trademarks, copyright and
+other property (information, reports etc.) members should use them only to complete their
+job duties.
+Members should protect community facilities and other material property (e.g. speakers and projectors) from
+damage and vandalism, whenever possible.
 
-## 7. Contact info
+## 8. Professionalism
 
-<contact@devfesttoulouse.fr>
+All members must show integrity and professionalism during meetups and code sessions:
+
+## 9. Corruption
+
+We discourage members from accepting gifts from clients or partners. We prohibit briberies for
+the benefit of any external or internal party.
+
+## 10. Job duties and authority
+
+All members should fulfill their job duties with integrity and respect toward sponsors,
+stakeholders and the community. Supervisors and Administrators mustn’t abuse their authority. We expect them to delegate duties to their team members taking into account their competences, time schedule and workload. Likewise, we expect team members to follow team leaders’ instructions and complete their duties with skill and in a timely manner.
+We encourage mentoring throughout our community.
+
+## 11. Collaboration
+
+Members should be friendly and collaborative. They should try not to disrupt the slack workplace, whatsapp group, meetups, code sessions or present obstacles to their colleagues’ work.
+
+## 12. Communication
+
+All members must be open for communication with their colleagues, administrators or team
+Members.
+
+
+## 13. Benefits
+
+Members are entitled to some benefits per meetups and code projects handled and completed
+
+
+## 14. Policies
+
+All members should read and follow our community policies. If they have any questions, they
+should ask the administrators
+
+## 15. Disciplinary actions
+
+Our community may have to take disciplinary action against members who repeatedly or
+intentionally fail to follow our code of conduct. Disciplinary actions will vary depending on the
+violation.
+Possible consequences include:
+Reprimand.
+Suspension or termination from the community for more serious offenses.
+
+
+## 16. Contact info
+
+<contact@futdevcircle.com>
