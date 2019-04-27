@@ -35,11 +35,11 @@ Federal University of Technology Minna Developers Circle (FDC) envision a techno
 ## Featured Speakers in Next Event
 
 
+<!-- ...
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
 
-<!-- ...
 
 {{< button-link label="See all speakers"
                 url="./speakers"
