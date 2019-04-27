@@ -51,11 +51,11 @@ Federal University of Technology Minna Developers Circle (FDC) envision a techno
 
 <!-- ... -->
 
-{{% home-subscribe  class="primary" %}}
+<!--{{% home-subscribe  class="primary" %}}-->
 
-## Get notified about the important FDC Events
+<!--## Get notified about the important FDC Events-->
 
-{{% /home-subscribe %}}
+<!--{{% /home-subscribe %}}-->
 
 <!-- ... -->
 
