@@ -1,13 +1,12 @@
 {
-  "name": "DevFest Toulouse 2019",
-  "short_name": "DevFest TLS",
+  "name": "FutMinna Developers Circle",
+  "short_name": "FDC",
   "icons": [
-    { "src": "/images/logos/devfest_color48.png", "sizes": "48x48", "type": "image/png" },
-    { "src": "/images/logos/devfest_color72.png", "sizes": "72x72", "type": "image/png" },
-    { "src": "/images/logos/devfest_color96.png", "sizes": "96x96", "type": "image/png" },
-    { "src": "/images/logos/devfest_color144.png", "sizes": "144x144", "type": "image/png" },
-    { "src": "/images/logos/devfest_color192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/images/logos/devfest_color512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "/images/logos/android-icon-48x48.png", "sizes": "48x48", "type": "image/png" },
+    { "src": "/images/logos/android-icon-72x72.png", "sizes": "72x72", "type": "image/png" },
+    { "src": "/images/logos/android-icon-96x96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/images/logos/android-icon-144x144.png", "sizes": "144x144", "type": "image/png" },
+    { "src": "/images/logos/android-icon-192x192.png", "sizes": "192x192", "type": "image/png" }
   ],
   "start_url": "./?utm_source=web_app_manifest",
   "theme_color": "#673ab7",
