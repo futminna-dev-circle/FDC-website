@@ -9,53 +9,21 @@ draft: false
 
 ## General
 
-### What is DevFest Toulouse?
+### What is Futminna Developers Circle?
 
-The DevFest, or "Developers Festival", is a technical conference for developers.
-It is aimed at students, professionals or simply curious technophiles.
-Throughout the day, renowned speakers will present a variety of topics: around mobile development, the web, data, connected objects, the cloud, DevOps, etc... as well as good development practices.
-Pauses are used to engage in dialogue and deepen the topics presented.
-
-Software development is a very broad subject and our selection committee is committed to providing a varied and interesting program.
-This day will be an opportunity to meet speakers of international but also national renown, indeed we also aim to make an important place for local speakers.
-
-DevFest is part of an [international event](https://developers.google.com/events/devfest/) and is organised in partnership with Google.
+Federal University of Technology Minna Developers Circle (FDC) envision a technological community for the students in and outside FUTMinna to promote and encourage global technological advancement, where we network, learn and innovate to foster the spirit of research and in-depth studying in areas of science and technology especially information and communication technology through meetups, training, study group, conference, sharing first-hand information on latest trends in technology as well as opportunities in the Industries to developers. In the past we hosted Google Hashcode and had some of our developers in the top ranks (first, third and fifth) nationwide. With the series of meetups held, we have helped groom a group of developers with diverse skills like web and mobile development, cybersecurity, artificial intelligence, design, etc.   We have been fortunate in the past years to obtain sponsorship deals from Ingressive, MLH and Google for Hashcode.
 
 
 ### Organizing communities
 
-DevFest Toulouse is an event organized by the developer communities of Toulouse, and administratively supported by GDG Toulouse.
-You will find the list of communities at the bottom of the main page.
-
-To make all this possible, an over-vitaminated team of volunteers is working behind the scenes.
+Futminna DevCircle is the brain child of a select group of an over-vitaminated founders/administrators.
+You will find the admin team list at [Team](/team).
 
 ## Conference
 
-### Where and when will DevFest take place?
+### Where and when will the next event take place?
 
-Le DevFest Toulouse 2019 takes place on **Thursday, October 3** at the [Congress Centre Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
-
-### How to get there?
-
-The [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2) is ideally located in the city centre.
-
-* :airplane: **by plane** : <br>
-From _Blagnac_ airport, two solutions:
-  - The easiest way is to take the airport shuttle to get off at the stop _Compans-Cafarelli_
-  - You can also:
-      1. Take the tram <mark class="t2">T<sub>2</sub></mark> to the station _Arènes_
-      2. Take a connection with the <mark class="a">A</mark> line from the metro to the _Jean Jaurès_ stop
-      3. Take a connection with the <mark class="b">B</mark> line from the metro to the _Compans-Cafarelli_ stop
-* :car: **by car** : <br>
-A parking lot (subject to charge) is located a stone's throw from the conference. <br>
-Feel free to carpool.
-* :train: **by train** : <br>
-From the station _Matabiau_, 
-simply take the <mark class="a">A</mark> line from the metro to the _Jean Jaurès_ stop<br> 
-where you will take a connection with the <mark class="b">B</mark> metro line 
-in order to get off at the _Compans-Cafarelli_ stop.
-* :metro: **en métro** : <br>
-Take the line <mark class="b">B</mark> then get off at the _Compans-Cafarelli_ stop.
+The next event titled "Design and Collaboration" takes place on **Saturday, May 4** at [SICT Lab, SICT, Federal University of Technology, Minna](https://goo.gl/maps/vDmHc8mFQtD2).
 
 ## Sponsor / Partner?
 
@@ -63,28 +31,24 @@ Take the line <mark class="b">B</mark> then get off at the _Compans-Cafarelli_ s
 
 The partnership file is currently available [here](https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing).
 
-## CFP: Call for Paper
 
-All the information in the [CFP Blog post](/blog/cfp/)
+## Registration
 
-## Ticketing
+### Where can I register?
+Find the registration form [here](bit.ly/fdc-reg). Upon completion of registration, you will be sent an email containing an invite to our official slack channel.
 
-### What are the conditions for refunding your ticket?
+### What are the conditions for registration?
 
-We allow a refund up to 15 days before the event excluding the processing fee of our ticketing partner.
+All we require is that you are a student, staff or alumni of Federal University of Technology, Minna
 
-### Is it necessary to bring an identity document or is there a minimum age to enter the event?
+### Is it necessary to know a programming langauge?
 
-Your ticket is enough, there is no minimum age.
+Give us your enthusiasm. The community is here to help you on your learning journey
 
 ### Can I update my registration information?
 
-Yes, you can change your order information on our ticketing partner's website.
+Yes, you can change your registration information on our google form but you will not be sent a new slack invite.
 
-### Is it a problem if the name on my ticket or registration does not match the name of the participant?
+### I would like to join multiple teams, how do i do so?
 
-Yes, please contact us if you have any specific questions.
-
-### I would like an invoice, how do I get it?
-
-Our association is now subject to VAT. It is therefore possible to obtain an invoice from our ticketing partner.
+All is contained in the registration form.
