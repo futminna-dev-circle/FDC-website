@@ -1,4 +1,4 @@
-baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+baseURL = "https://futminna-dev-circle.github.io/"
 languageCode = "en"
 title = "FUT Dev Circle"
 
@@ -18,7 +18,7 @@ googleAnalytics = "UA-37717223-8"
     date = "2019-10-03"
     description = "FUTMINNA DEVELOPER CIRLCE [FDC] is a student developer community based in Federal University of Technology, Minna"
     images = ["/images/social-share.jpg"]
-    email = "contact@futdevcircle.com"
+    email = "futminnadevcircle@gmail.com"
     keywords = "event, community, fdc, programming, android, chrome, developers, web, cloud, androiddev"
     copyright = "We :heart:️ Tech"
     cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
