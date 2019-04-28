@@ -16,8 +16,8 @@ Federal University of Technology Minna Developers Circle (FDC) envision a techno
 
 ### Organizing communities
 
-Futminna DevCircle is the brain child of a select group of an over-vitaminated founders/administrators.
-You will find the admin team list at [Team](/team).
+Futminna DevCircle is the brain child of a select group of an over-vitaminated founders/administrators solidly backed by our ever-present staff advisors.
+You will find the team list at [Team](/team).
 
 ## Conference
 
@@ -49,6 +49,6 @@ Give us your enthusiasm. The community is here to help you on your learning jour
 
 Yes, you can change your registration information on our google form but you will not be sent a new slack invite.
 
-### I would like to join multiple teams, how do i do so?
+### What do i stand to gain?
 
-All is contained in the registration form.
+The chance to acquire knowledge, take on live projects, grow as a developer all the while internetworking with other developers.
