@@ -1,7 +1,7 @@
 ---
 title: Domnan Diretnan
 type: admin
-subtitle: "Random Lead"
+subtitle: "AI Lead"
 photo: /images/admin/diretnan_domnan.jpg
 socials:
   - link: 'https://www.twitter.com/diretnan'
