@@ -19,10 +19,10 @@ To make all this possible, an awesome team of volunteers is working behind the s
 
 <!-- ... -->
 
-{{< teams types="admin=Admin Team,volunteers=Volunteers,cfp=CFP" >}}
+{{< teams types="admin=Admin Team,members=Members,staff=Staff" >}}
 
 <!-- ... -->
 
-{{% partners categories="communautes,media" %}}
+{{% partners categories="sponsors,media" %}}
 # Partners
 {{% /partners %}}
