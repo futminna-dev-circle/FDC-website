@@ -1,8 +1,8 @@
 ---
 title: Domnan Diretnan
 type: admin
-subtitle: "AI Lead"
-photo: /images/admin/diretnan_domnan.jpg
+subtitle: "Python, React, ML and AI"
+photo: admin/diretnan_domnan.jpg
 socials:
   - link: 'https://www.twitter.com/diretnan'
     name: Twitter
