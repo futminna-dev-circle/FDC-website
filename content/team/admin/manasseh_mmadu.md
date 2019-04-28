@@ -4,7 +4,7 @@ type: admin
 subtitle: "Python Lead"
 photo: admin/manasseh_mmadu.jpg
 socials:
-  - link: 'https://www.twitter.com/__MeNsaaH_'
+  - link: 'https://www.twitter.com/_MeNsaaH__'
     name: Twitter
   - link: 'http://mensaah.github.io/'
     name: Site
