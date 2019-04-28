@@ -1,7 +1,7 @@
 ---
 title: Domnan Diretnan
 type: admin
-subtitle: "Python, React, ML and AI"
+subtitle: ""
 photo: admin/diretnan_domnan.jpg
 socials:
   - link: 'https://www.twitter.com/diretnan'
