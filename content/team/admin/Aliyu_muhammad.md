@@ -1,8 +1,8 @@
 ---
-title: Manasseh Mmadu
+title: Aliyu Muhammad
 type: admin
 subtitle: ""
-photo: admin/aliyu_muhammad.jpg
+photo: admin/Aliyu_muhammad.jpg
 socials:
   - link: 'https://www.twitter.com/DR_CGURUSM'
     name: Twitter
