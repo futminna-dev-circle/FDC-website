@@ -10,7 +10,6 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
 
-## FUTMinna Developers Circle
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 

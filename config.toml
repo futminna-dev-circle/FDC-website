@@ -31,9 +31,9 @@ googleAnalytics = "UA-37717223-8"
     themeColor = "#673ab7"
 
 [params.logos]
-    jumbo = "/images/logos/logo.png"
-    header = "/images/logos/logo.png"
-    footer = "/images/logos/logo_gray.png"
+    jumbo = "/images/logos/fdc_gray.svg"
+    header = "/images/logos/fdc_gray.svg"
+    footer = "/images/logos/fdc_gray.svg"
 
 #[menu]
 #[[menu.main]]
