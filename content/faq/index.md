@@ -11,8 +11,7 @@ draft: false
 
 ### What is Futminna Developers Circle?
 
-Federal University of Technology Minna Developers Circle (FDC) envision a technological community for the students in and outside FUTMinna to promote and encourage global technological advancement, where we network, learn and innovate to foster the spirit of research and in-depth studying in areas of science and technology especially information and communication technology through meetups, training, study group, conference, sharing first-hand information on latest trends in technology as well as opportunities in the Industries to developers. In the past we hosted Google Hashcode and had some of our developers in the top ranks (first, third and fifth) nationwide. With the series of meetups held, we have helped groom a group of developers with diverse skills like web and mobile development, cybersecurity, artificial intelligence, design, etc.   We have been fortunate in the past years to obtain sponsorship deals from Ingressive, MLH and Google for Hashcode.
-
+Federal University of Technology Minna Developers Circle (FDC) envision a technological community for the students in and outside FUTMinna to promote and encourage global technological advancement, where we network, learn and innovate to foster the spirit of research and in-depth studying in areas of science and technology especially information and communication technology through meetups, training, study group, conference, sharing first-hand information on latest trends in technology as well as opportunities in the Industries to developers. In the past we hosted Google Hashcode and had some of our developers in the top ranks (first, third and fifth) nationwide. With the series of meetups held, we have helped groom a group of developers with diverse skills like web and mobile development, cybersecurity, artificial intelligence, design, etc.
 
 ### Organizing communities
 
@@ -26,6 +25,8 @@ You will find the team list at [Team](/team).
 The next event titled "Design and Collaboration" takes place on **Saturday, May 4** at [SICT Lab, SICT, Federal University of Technology, Minna](https://www.google.com/maps/place/Federal+University+of+Technology+Minna+Gidan+Kwano+Campus/@9.5247783,6.4343621,15z/data=!4m5!3m4!1s0x0:0xc8b3637f075a8b04!8m2!3d9.5247783!4d6.4343621).
 
 ## Sponsor / Partner?
+
+We have been fortunate in the past years to obtain sponsorship deals from Ingressive, MLH and Google for Hashcode.
 
 ### How to become a sponsor/partner?
 
