@@ -33,14 +33,13 @@ update your profile on the FDC site as guided below
 9. Make sure you rename the image file name to the name you provided in 
    your admin details
 10. Push to your branch
-			`git push` 
-			
+			`git push`			
 11. Create a pull request by going to your git account and on your 
     forked repo click on pull request, in title field input **Updated 
 <Your_name> details admin**
 12. click enter to submit your pull request
 
-## Members COntribution Steps
+## Members Contribution Steps
 
 1. Login into your github or register by clicking [here](https://github.com)
 2. Fork the repo from [FDC Website](https://futminna-dev-circle.github.io)
@@ -70,9 +69,7 @@ update your profile on the FDC site as guided below
 8. Copy the photo of you of not more than **100kb** and navigate to Static/images/team/members and paste it in threr
 9. Make sure you rename the image file name to the name you provided in you member details
 10. Push to your branch
-
 		`git push`
-
 11. Create a pull request by going to your git account and on your 
     forked repo click on pull request, in title field input **Updated 
     <Your_name> details member**
