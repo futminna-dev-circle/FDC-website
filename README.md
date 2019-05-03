@@ -96,3 +96,8 @@ You could take a look at the `.gitlab-ci.yml` file
 ### Extract data from CFP
 
 TODO...
+
+## Contributions
+
+To contribute to this website click [here](assets/CONTRIBUTION.md) and 
+follow the instructions
