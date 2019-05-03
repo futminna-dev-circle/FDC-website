@@ -13,7 +13,7 @@ update your profile on the FDC site as guided below
 	`git clone <your forked url>`
 	
 4. Click [here](assets/) copy the ...admin.md file
-5. Navigate into content/team/admin in your duplicated fork
+5. Navigate into `content/team/admin` in your duplicated fork
 6. Paste the .md file and rename the file to <your_name.md>
 7. Open the duplicated file and update your details as follows
 	1. Change the title value to your full name 
@@ -30,7 +30,7 @@ update your profile on the FDC site as guided below
 		   is/are not applicable to you
 8. Save the file and exit
 9. Copy your image or photo of you of not more than **100KB in size**  
-and navigate to Static/images/team/admin and paste it in there
+and navigate to `Static/images/team/admin` and paste it in there
 10. Make sure you rename the image file name to the name you provided in 
 your admin details
 11. Push to your branch
@@ -47,13 +47,13 @@ your admin details
 3. Clone the fork that is duplicated on your account 
 	`git clone <your forked url>`
 3. Click [here](assets/) copy the .md file
-4. Navigate into content/team/members in your duplicated fork
+4. Navigate into `content/team/members` in your duplicated fork
 5. Paste the .md file and rename the file to <your_name.md>
 6. Open the changed file and update to your details as follows
 	1. Change the title value to your full name
 	2. In not more 10-15 words describe your stack in the subtitle 
            field
-	3. Change the photo url to members/your-image-name.ext, make  
+	3. Change the photo url to `members/your-image-name.ext`, make  
            sure the name is the same as the name of your image you are 
            going to use and the extension
 	4. Depending on the social network you operate update the link 
@@ -67,7 +67,8 @@ your admin details
 		4. Add the field of both the link and name that is not 
                    shown in the file
 7. Save the file and exit	
-8. Copy the photo of you of not more than **100kb** and navigate to Static/images/team/members and paste it in threr
+8. Copy the photo of you of not more than **100kb** and navigate to 
+`Static/images/team/members` and paste it in threr
 9. Make sure you rename the image file name to the name you provided in you member details
 10. Push to your branch
 		`git push`
