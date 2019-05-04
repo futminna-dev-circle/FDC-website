@@ -12,7 +12,7 @@ update your profile on the FDC site as guided below
 
 	`git clone <your forked url>`
 	
-4. Click [here](assets/) copy the ...admin.md file
+4. Copy this [markdown](admin_name_admin.md)
 5. Navigate into `content/team/admin` in your duplicated fork
 6. Paste the .md file and rename the file to <your_name.md>
 7. Open the duplicated file and update your details as follows
@@ -46,7 +46,7 @@ your admin details
 2. Fork the repo from [FDC Website](https://futminna-dev-circle.github.io)
 3. Clone the fork that is duplicated on your account 
 	`git clone <your forked url>`
-3. Click [here](assets/) copy the .md file
+3. Copy this [markdown](member_name.md)
 4. Navigate into `content/team/members` in your duplicated fork
 5. Paste the .md file and rename the file to <your_name.md>
 6. Open the changed file and update to your details as follows
