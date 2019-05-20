@@ -11,7 +11,7 @@ menu:
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
 
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
+<!--<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>-->
 
 <a class="btn primary btn-lg" href="https://bit.ly/fdc-reg" target="_blank">Register for FDC</a>
 
@@ -66,6 +66,6 @@ Federal University of Technology Minna Developers Circle (FDC) envision a techno
 <!-- ... -->
 
 {{% partners categories="sponsors" %}}
-## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
+## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="mailto:futminnadevcircle@gmail.com" target="_blank">Become a sponsor</a>
 
 {{% /partners %}}

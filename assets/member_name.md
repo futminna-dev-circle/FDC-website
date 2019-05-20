@@ -1,9 +1,11 @@
 ---
 title: Member fullname
 type: member
-subtitle: "<Descibe your stack here"
-photo: members/member_name.ext
-socials: 
+email: Email
+phone: Your Phone Number
+subtitle: Descibe your stack here
+photo: members/picture
+socials:
   -  link: 'https://www.twitter.com/<member>'
      name: Twitter
   -  link: 'https://www.linkedin.com/in/<member url>'
