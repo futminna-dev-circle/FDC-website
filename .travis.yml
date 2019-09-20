@@ -16,6 +16,7 @@ script:
   - git submodule init
   - git submodule update themes/devfest-theme-hugo
   - hugo --theme=devfest-theme-hugo
+  - cp README.md public/README.md
 
 # Deploy to GitHub pages
 deploy:
